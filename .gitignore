@@ -1,0 +1,3 @@
+configmgr/environment.ini
+configmgr/db.sqlite3
+*.pyc
